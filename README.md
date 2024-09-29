@@ -5,6 +5,9 @@
 <p align="center">Simple Calculator.</p>
 
 
+<p align="center">
+<a href="https://mahmoodmustafid3.github.io/Calculator/">📱 Preview</a>
+</p>
 
 <h2 id="technologies">💻 Technologies</h2>
 
